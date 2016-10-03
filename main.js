@@ -49,10 +49,11 @@ var born = 1983;
 var today = 2016;
 
 // Answers Below:
-var Britsage = born - today;
+var brits= brit;
+var age = today - born;
+console.log ("Brit is " + age + " years old");
 
-
-
+calculate =
 // Store some information following in variables.
 var yourName;
 var instructorName;
@@ -65,3 +66,5 @@ var instructorName= brit;
 
 // Final Statement
 var statement = yourName + " is taking a class at The Iron Yard. Their instructor's name is " + instructorName;
+
+carmen is taking a class at The Iron Yard. Thier instructor's name is brit; 
